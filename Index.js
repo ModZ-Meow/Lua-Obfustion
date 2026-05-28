@@ -40,3 +40,6 @@ client.on("messageCreate", async (msg) => {
 });
 
 client.login("MTUwOTUwNjEyODUwNDE2MDMzNw.G1XcfK.pE29mWmy3mrUxVW4TDMSauBfSuk3qnnbAYWpZ0");
+client.on("messageCreate", msg => {
+    console.log(">>>", msg.content);
+});
