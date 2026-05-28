@@ -39,4 +39,4 @@ client.on("messageCreate", async (msg) => {
     loading.delete().catch(()=>{});
 });
 
-client.login("MTUwOTUwNjEyODUwNDE2MDMzNw.Gwyswg.pOa63BjWneyT-ZnDiwTmOSh0nYjaa5fwfYmi94");
+client.login("MTUwOTUwNjEyODUwNDE2MDMzNw.G1XcfK.pE29mWmy3mrUxVW4TDMSauBfSuk3qnnbAYWpZ0");
