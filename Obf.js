@@ -12,7 +12,7 @@ function obfuscate(code) {
     }
 
     return `
--- OBF BOT OUTPUT
+
 
 local data = {${out.join(",")}}
 
