@@ -39,4 +39,4 @@ client.on("messageCreate", async (msg) => {
     loading.delete().catch(()=>{});
 });
 
-client.login("YOUR_BOT_TOKEN");
+client.login("MTUwOTUwNjEyODUwNDE2MDMzNw.Gwyswg.pOa63BjWneyT-ZnDiwTmOSh0nYjaa5fwfYmi94");
