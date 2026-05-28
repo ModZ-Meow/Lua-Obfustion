@@ -43,3 +43,6 @@ client.login("MTUwOTUwNjEyODUwNDE2MDMzNw.G1XcfK.pE29mWmy3mrUxVW4TDMSauBfSuk3qnnb
 client.on("messageCreate", msg => {
     console.log(">>>", msg.content);
 });
+client.on("messageCreate", msg => {
+    console.log("MSG:", msg.content);
+});
